@@ -1,19 +1,29 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-Kurulum
-Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan güncel bağlantı gelecek)
+![github](figures/github.png)
 
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
-Kullanım
-Projeyi klonladıktan sonra Visual Studio Code programını açıyorsunuz.
+## Installation
+
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
+```bash
+git clone ttps://github.com/sahin-emir/kodluyoruzilkrepo.git
+```
+
+## Usage
+
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-
+```linux
 cd kodluyoruzilkrepo
 code .
-Katkıda bulunmak
-Çekme isteği kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
+```
 
-Lisans
-MİT
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
