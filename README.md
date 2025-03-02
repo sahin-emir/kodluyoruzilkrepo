@@ -5,7 +5,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clon'layın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
 git clone ttps://github.com/sahin-emir/kodluyoruzilkrepo.git
